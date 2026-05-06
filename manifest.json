@@ -1,0 +1,46 @@
+{
+  "name": "BB Global & Blackbox",
+  "short_name": "BB Global",
+  "description": "Global tedarik gücü, geniş ürün yelpazesi ve güçlü ticaret ağı ile dünyaya değer katıyoruz.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#001a33",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "shopping"],
+  "screenshots": [
+    {
+      "src": "/images/BBGLOBAL.jpeg",
+      "sizes": "540x720",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/BBGLOBAL.jpeg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ]
+}
