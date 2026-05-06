@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Home",
+    "salesChannels": "Sales Channels",
+    "partners": "Partners",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search..."
+  },
+  "footer": {
+    "company": "BB GLOBAL",
+    "description": "We add value to the world with global supply power, wide product range and strong trade network.",
+    "quickLinks": "Quick Links",
+    "partners": "Partners",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe for the latest news, product updates and special offers.",
+    "subscribe": "Subscribe",
+    "subscribing": "Sending...",
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "followUs": "Follow Us"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close"
+  }
+}
