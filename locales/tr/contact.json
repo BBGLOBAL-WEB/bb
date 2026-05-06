@@ -1,0 +1,30 @@
+{
+  "title": "İletişim Formu",
+  "description": "Sorularınız, önerileriniz veya işbirliği teklifleriniz için lütfen bizimle iletişime geçin. En kısa sürede sizinle iletişime geçeceğiz.",
+  "form": {
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "submit": "Mesajı Gönder",
+    "sending": "Gönderiliyor...",
+    "required": "gereklidir",
+    "invalidEmail": "Geçerli bir e-posta adresi girin",
+    "minLength": "en az 10 karakter olmalıdır",
+    "privacy": "Gizlilik politikamıza uygun olarak verileriniz güvenli şekilde işlenecektir."
+  },
+  "contact": {
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "hours": "Çalışma Saatleri",
+    "weekdays": "Pazartesi - Cuma: 09:00 - 18:00",
+    "weekend": "Cumartesi - Pazar: Kapalı"
+  },
+  "map": "Konumumuz",
+  "messages": {
+    "success": "Mesajınız başarıyla gönderildi! En kısa sürede sizinle iletişime geçeceğiz.",
+    "error": "Mesaj gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "validationError": "Lütfen tüm alanları doğru şekilde doldurun"
+  }
+}

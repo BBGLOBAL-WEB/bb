@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "salesChannels": "Satış Kanallarımız",
+    "partners": "İş Ortaklarımız",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "search": "Ara..."
+  },
+  "footer": {
+    "company": "BB GLOBAL",
+    "description": "Global tedarik gücü, geniş ürün yelpazesi ve güçlü ticaret ağı ile dünyaya değer katıyoruz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "partners": "İş Ortakları",
+    "contact": "İletişim",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "newsletter": "Haber Bülteni",
+    "newsletterDesc": "En son haberler, ürün güncellemeleri ve özel teklifler için abone olun.",
+    "subscribe": "Abone Ol",
+    "subscribing": "Gönderiliyor...",
+    "copyright": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "followUs": "Bizi Takip Edin"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "close": "Kapat"
+  }
+}
