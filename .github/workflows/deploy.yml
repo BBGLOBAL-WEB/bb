@@ -26,6 +26,29 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Create temporary next.config for export
+        run: |
+          cat > next.config.export.js << 'EOF'
+          /** @type {import('next').NextConfig} */
+          const nextConfig = {
+            output: 'export',
+            images: {
+              unoptimized: true,
+              formats: ['image/avif', 'image/webp'],
+              deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+              imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+            },
+            basePath: '',
+            trailingSlash: true,
+            compress: true,
+            poweredByHeader: false,
+            productionBrowserSourceMaps: false,
+            swcMinify: true,
+          };
+          module.exports = nextConfig;
+          EOF
+          mv next.config.export.js next.config.js
+
       - name: Build
         run: npm run build
 
